@@ -1,10 +1,8 @@
 # Project Title [ Chat-GPT3-OpenAI-Web-App ]
 
-Deployed Live URL on Vercel: https://min-chat-gpt-3-open-ai-codex-app.vercel.app/
+Deployed Live URL on Vercel: https://gpt-support-coding.onrender.com/
 
 ![App Screenshots](./client/public/ChatGPT_1.jpg)
-![App Screenshots](./client/public/ChatGPT_2.jpg)
-![App Screenshots](./client/public/ChatGPT_3.jpg)
 
 ## Table of Contents
 1. [Description](#description)
@@ -62,11 +60,11 @@ MIT
 
 #### GitHub Username: min-hinthar 
 
-#### GitHub URL: https://github.com/min-hinthar
+#### GitHub URL: https://github.com/scarlett130
 
-#### GitHub Repo: https://github.com/min-hinthar/Chat-GPT3-OpenAI-Web-App
+#### GitHub Repo: https://github.com/scarlett1130/GPT3-Support-Codings
 
-#### Email: min@mandalaymorningstar.com
+#### Email: businessxfree2000@gmail.com
 
 -----
 
